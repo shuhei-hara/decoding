@@ -1,8 +1,18 @@
 # decoding
 
 
-This repository contains the demo code of feature decoindg based from ().
-The process basically contains 1. fMRI preprocessing using fMRI and converting to bdata, 2. feature extraction and preprocessing of visual features, 3. cross validation to check the decoder performance, 4. Decoder training and Predict features, 5. Evaluate the results with feature gains.
+This repository contains demo code for feature decoding.
+The pipeline consists of the following steps:
+1. fMRI preprocessing and conversion to bdata format
+2. Visual feature extraction and preprocessing
+3. Cross-validation to assess decoder performance
+4. Decoder training and feature prediction
+5. Evaluation of results using feature gains
 
-Data
-W
+Download Data
+-------
+
+Build environment
+-------------
+
+
